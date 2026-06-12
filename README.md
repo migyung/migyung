@@ -7,6 +7,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 [![migyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=migyung)](https://github.com/migyung/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=migyung)&hide=stars,contribs
 https://github-readme-stats.vercel.app/api?username=migyung)&hide=stars,contribs&count_private=true
 https://github-readme-stats.vercel.app/api?username=migyung)&hide=stars,contribs&count_private=true&show_icons=true
 
