@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm MiGyung 👋
+# Hi there 👋
 
-**프론트엔드 개발자** · 깔끔한 UI와 사용자 경험에 집중합니다
+**서비스 기획자** · 깔끔한 UI와 사용자 경험에 집중합니다
 
 </div>
 
